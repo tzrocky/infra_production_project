@@ -6,7 +6,7 @@ infra production project
 
 Navigate to your project folder in the terminal, then run:
       
-      <code>python -m venv venv</code>
+      python -m venv venv
       
 This creates a folder named venv containing an isolated Python environment.
 
@@ -15,12 +15,14 @@ This creates a folder named venv containing an isolated Python environment.
 
 <b>On macOS / Linux:</b>
     
-      <code>source venv/bin/activate</code>
+      source venv/bin/activate
     
 <b>On Windows (CMD):</b>
-      <code>venv\Scripts\activate</code>
+
+      venv\Scripts\activate
       
 <b>On Windows (PowerShell):</b>
-      <code>venv\Scripts\Activate.ps1</code>
+
+      venv\Scripts\Activate.ps1
     
 Once activated, you’ll see (venv) in your terminal prompt.
