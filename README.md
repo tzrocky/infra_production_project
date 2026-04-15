@@ -33,3 +33,7 @@ Once activated, you’ll see (venv) in your terminal prompt.
 If your script needs packages:
 
       pip install -r requirements.txt
+
+or install manually:
+
+      pip install requests
