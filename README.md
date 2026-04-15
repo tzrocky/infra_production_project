@@ -26,3 +26,10 @@ This creates a folder named venv containing an isolated Python environment.
       venv\Scripts\Activate.ps1
     
 Once activated, you’ll see (venv) in your terminal prompt.
+
+
+📦 <b>3. Install dependencies (optional)</b>
+
+If your script needs packages:
+
+      pip install -r requirements.txt
