@@ -34,6 +34,8 @@ If your script needs packages:
 
       pip install -r requirements.txt
 
+      pip install openstacksdk pytest paramiko
+
 or install manually:
 
       pip install requests
