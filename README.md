@@ -37,3 +37,7 @@ If your script needs packages:
 or install manually:
 
       pip install requests
+
+🚀 <b>4. Run your Python script</b>
+
+      python script.py
