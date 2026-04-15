@@ -38,6 +38,12 @@ or install manually:
 
       pip install requests
 
+
 🚀 <b>4. Run your Python script</b>
 
       python script.py
+
+
+❌ <b>5. Deactivate when done</b>
+
+      deactivate
